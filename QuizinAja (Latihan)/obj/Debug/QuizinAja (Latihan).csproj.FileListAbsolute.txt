@@ -1,0 +1,40 @@
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\QuizinAja (Latihan).exe.config
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\QuizinAja (Latihan).exe
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\QuizinAja (Latihan).pdb
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\EntityFramework.dll
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\EntityFramework.xml
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).csproj.AssemblyReference.cache
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.Form1.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.Properties.Resources.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).csproj.GenerateResource.cache
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).csproj.CoreCompileInputs.cache
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAj.0EB60005.Up2Date
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).exe
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).pdb
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.Main.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja (Latihan)\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.CreateAccount.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\QuizinAja (Latihan).exe.config
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\QuizinAja (Latihan).exe
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\QuizinAja (Latihan).pdb
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\EntityFramework.dll
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\EntityFramework.xml
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).csproj.AssemblyReference.cache
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.AddQuiz.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.CreateAccount.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.Form1.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.Main.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.Properties.Resources.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).csproj.GenerateResource.cache
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).csproj.CoreCompileInputs.cache
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAj.0EB60005.Up2Date
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).exe
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja (Latihan).pdb
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.QuizReport.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.EnterQuiz.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.QuizForm.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.QuestionUC.resources
+D:\Pelatihan LKS\Bootcamp\QuizinAja - Jawaban\QuizinAja (Latihan)\obj\Debug\QuizinAja__Latihan_.QuestionAnswerUC.resources
